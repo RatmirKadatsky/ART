@@ -1,0 +1,342 @@
+.header {
+
+	background: url(img2/banner.jpg);
+	color: white;
+	background-size: cover;
+	padding: 100px;
+	padding-left: 25%;
+	position: relative;
+	z-index: 3;
+}
+
+
+.heheheha {
+	text-decoration: 0;
+	color: white;
+	border: 3px white solid;
+	padding: 13px;
+	width: 170px;
+	text-align: center;
+
+}
+
+
+h1 {
+	text-transform: uppercase;
+}
+
+
+.header_flex {
+	display: flex;
+	align-items: center;
+}
+
+
+body {
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+
+.hr {
+	border: white 2px solid;
+	background: white;
+	border-radius: 2px;
+	width: 90%;
+	margin-left: -0px;
+}
+
+
+.aheheheh {
+	width: 700px;
+}
+
+
+.shadow {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background: #0d0d0da8;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+
+.authority {
+	background: url(img2/pic01.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 7%;
+	position: relative;
+	z-index: -1;
+	padding-left: 35%;
+}
+
+
+.movement {
+	background: url(img2/pic02.jpg);
+	background-size: cover;
+	background-position: center;
+	grid-column-start: 2;
+	grid-column-end: 4;
+	padding: 7%;
+	position: relative;
+	z-index: -1;
+	padding-left: 35%;
+}
+
+
+.fortress {
+	background: url(img2/pic03.jpg);
+	background-size: cover;
+	background-position: center;
+	grid-column-start: 1;
+	grid-column-end: 3;
+	padding: 7%;
+	z-index: -1;
+	position: relative;
+	padding-left: 35%;
+}
+
+
+.instinct {
+	background: url(img2/pic04.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 7%;
+	z-index: -1;
+	position: relative;
+	padding-left: 35%;
+}
+
+
+.journey {
+	background: url(img2/pic05.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 7%;
+	z-index: -1;
+	position: relative;
+	padding-left: 35%;
+}
+
+
+.acquaintances {
+	background: url(img2/pic06.jpg);
+	background-size: cover;
+	background-position: center;
+	grid-column-start: 2;
+	grid-column-end: 4;
+	padding: 7%;
+	position: relative;
+	padding-left: 35%;
+}
+
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr;
+	color: white;
+}
+
+
+.hr2 {
+	border: 2px white solid;
+	background: white;
+	width: 50%;
+	margin: 0;
+}
+
+
+.negr,.movement2,.fortress2,.instinct2,.journey2,.acquaintances2 {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+
+.avtoritet_text,.movement3,.fortress3,.instinct3,.journey3,.acquaintances3 {
+	z-index: 2;
+	position: relative;
+	margin: 9px 0;
+}
+
+
+.movement2 {
+	background: #7f067bac;
+}
+
+
+.journey2 {
+	background: #4a3afc40;
+}
+
+
+.negr {
+	background: #42aaffa9;
+}
+
+
+.fortress2 {
+	background: #fc5e3a2c;
+}
+
+
+.instinct2 {
+	background: #fcaf3a83;
+}
+
+
+.acquaintances2 {
+	background: #0c590571;
+}
+
+
+.hra {
+	width: ;
+}
+
+
+.hrm {
+	width: 26%;
+}
+
+
+.hrf {
+	width: 23%;
+}
+
+
+.hri {
+	width: 46%;
+}
+
+
+.hrj {
+	width: 65%;
+}
+
+
+.hras {
+	width: 29%;
+}
+
+
+.movement3 {
+	padding-top:
+}
+
+
+.authority4 {
+	padding-top: 30px;
+}
+
+
+.instinct4 {
+	padding-top: 20px;
+}
+
+
+.journey4 {
+	padding-top: 28px;
+}
+
+
+.yt {
+	background: white;
+	border: white 2px solid;
+}
+
+
+.av {
+	text-decoration: 0;
+	color: white;
+	border: white 3px solid;
+	padding: 12px;
+}
+
+
+.ew {
+	background: #2a2f4a;
+	padding: 45px;
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
+
+.op {
+	color: white;
+	margin-bottom: 35px;
+}
+
+
+.gu {
+	color: white;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+
+.grid_contact {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+	grid-gap: 10px;
+}
+
+
+.yw {
+	background: #242943;
+	padding: 0%;
+	padding: 45px;
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
+
+.jo {
+	background: white;
+	border: 2px white solid;
+}
+
+
+.we {
+	margin: 0%;
+	color: white;
+	text-align: center;
+}
+
+
+label {
+	color: white;
+}
+
+
+.kf  {
+	grid-column-start: 1;
+	grid-column-end: 3;
+}
+
+
+.ta {
+	grid-column-start: 1;
+	grid-column-end: 3;
+}
+
+
+.sa {
+	background: #2a2f4a;
+	border: 0;
+}
+
+
+.lk {
+	text-transform: uppercase;
+	border-radius: 0;
+	border: 0;
+}
